@@ -14,6 +14,8 @@ public class SpringbootSchemaApplication extends SpringBootServletInitializer {
         SpringApplication.run(SpringbootSchemaApplication.class, args);
     }
 
+    //dsfsdfds
+
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder applicationBuilder) {
         return applicationBuilder.sources(SpringbootSchemaApplication.class);
